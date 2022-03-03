@@ -1,4 +1,5 @@
 package com.java.FirstJava;
+
 import java.util.Scanner;
 
 public class Main {
@@ -8,8 +9,8 @@ public class Main {
         System.out.println("JAVA DSA");
         System.out.println("JAVA DSA");
         System.out.println("JAVA DSA");
-        Scanner ss= new Scanner(System.in);
-        int num= ss.nextInt();
+        Scanner ss = new Scanner(System.in);
+        int num = ss.nextInt();
         System.out.println(num);
     }
 
