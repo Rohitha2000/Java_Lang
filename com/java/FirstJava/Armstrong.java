@@ -3,6 +3,9 @@ package com.java.FirstJava;
 import java.util.Scanner;
 
 public class Armstrong {
+
+    // To Check Whether the given number is Armstrong Number or not
+
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         System.out.println("Enter number");

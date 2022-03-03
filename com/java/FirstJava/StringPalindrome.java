@@ -4,6 +4,9 @@ import java.sql.SQLOutput;
 import java.util.Scanner;
 
 public class StringPalindrome {
+
+    // To Check whether given String is Palindrome or not
+
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         System.out.println("Enter String");

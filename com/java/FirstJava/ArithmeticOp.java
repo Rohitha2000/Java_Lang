@@ -3,6 +3,9 @@ package com.java.FirstJava;
 import java.util.Scanner;
 
 public class ArithmeticOp {
+    
+    // To perform arithmetic operation based on given inputs
+
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         System.out.println("Enter 1st number");

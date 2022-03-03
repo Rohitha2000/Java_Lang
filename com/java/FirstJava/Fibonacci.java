@@ -3,6 +3,9 @@ package com.java.FirstJava;
 import java.util.Scanner;
 
 public class Fibonacci {
+
+    // To print Fibonacci number upto N numbers
+
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         System.out.println("Enter number");
