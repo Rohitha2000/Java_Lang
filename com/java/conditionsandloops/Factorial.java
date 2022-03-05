@@ -3,6 +3,9 @@ package com.java.conditionsandloops;
 import java.util.Scanner;
 
 public class Factorial {
+
+    // To print factorial of given number
+
     public static void main(String[] args) {
         int number;
         Scanner s= new Scanner(System.in);

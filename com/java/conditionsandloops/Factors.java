@@ -5,6 +5,7 @@ import java.util.Scanner;
 public class Factors {
 
     // To print factors of number
+
     public static void main(String[] args) {
         Scanner s = new Scanner(System.in);
         System.out.println("Enter number to find its factors");

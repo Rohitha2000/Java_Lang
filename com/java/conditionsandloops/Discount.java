@@ -3,6 +3,9 @@ package com.java.conditionsandloops;
 import java.util.Scanner;
 
 public class Discount {
+
+    // To find the discount of given prices
+
     public static void main(String[] args) {
         Scanner s = new Scanner(System.in);
         System.out.println("Enter cost price");
