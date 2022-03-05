@@ -3,6 +3,9 @@ package com.java.conditionsandloops;
 import java.util.Scanner;
 
 public class AreaOfShapes {
+
+    // Printing area of shapes
+
     public static void main(String[] args) {
         Scanner s = new Scanner(System.in);
         System.out.println("Enter radius for circle");
